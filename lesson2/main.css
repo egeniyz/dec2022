@@ -1,0 +1,54 @@
+
+/*.father   {*/
+/*    width: 100%;*/
+/*    height: 600px;*/
+/*    background: silver*/
+/*}*/
+
+/*.box {*/
+/*    width: 250px;*/
+/*    height: 150px;*/
+/*}*/
+
+
+
+  .container   {
+      width: 100%;
+      height: 100px;
+      background: brown;
+      display: flex;
+  }
+
+.widgets {
+    width: 200px;
+    height: 50px;
+    background: dodgerblue;
+    display: flex;
+    align-items: center ;
+    justify-content: center;
+}
+
+.block {
+    width: 60px;
+    height: 50px;
+    background: dodgerblue;
+    display: flex;
+    align-items: center ;
+    justify-content: center;
+}
+
+.middle {
+    display: flex;
+    /*align-items: center ;*/
+    justify-content: space-between;
+}
+
+.contact {
+    width: 200px;
+    height: 100px;
+    background: dodgerblue;
+    display: flex;
+    align-items: center ;
+    justify-content: center;
+
+}
